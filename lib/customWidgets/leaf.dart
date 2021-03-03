@@ -61,11 +61,3 @@ class Circle extends StatelessWidget {
 }
 
 
-class CircleLeaf extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      
-    );
-  }
-}
